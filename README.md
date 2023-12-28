@@ -7,7 +7,7 @@ Fork created to change variables names to be more correct, to add original autho
 
 ## Features
 Searches for the Steam game you're viewing on the web-page on a cracked game. 
-Features 6 sites (Online-fix | FitGirl | Skidrowreloaded | SteamRIP | Dodi Repacks | Gload.to | RuTracker | Rutor | NnmClub| Small-Games)
+Features 6 sites (Online-fix | FitGirl | Skidrowreloaded | SteamRIP | Dodi Repacks | Gload.to | RuTracker | Rutor | NnmClub | Small-Games)
 
 ## Installation via Tampermonkey (Thanks to '@Patraskon' and ChatGPT (I suppose :D) for the script and suggestion)
 
