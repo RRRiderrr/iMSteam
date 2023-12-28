@@ -1,6 +1,6 @@
 # iMSteam
 
-![Image Description](https://imgur.com/a/psl6T92.png)
+![Image Description](https://i.imgur.com/k1irm5C.png)
 
 Adds pirated alternatives on Steam's website. 
 Fork created to change variables names to be more correct, to add original author's name, as well, as more sites to search with.
