@@ -13,7 +13,7 @@ Features 10 sites (Online-fix | FitGirl | Skidrowreloaded | SteamRIP | Dodi Repa
 
 To install this extension as a userscript using Tampermonkey:
 
-1. Click on the userscript file (`iMSteam.user.js`) and copy the entire script.
+1. Click on the userscript file (`iMSteam.user.js`) and copy the entire script. Or you can just install it by [click here](https://github.com/RRRiderrr/iMSteam-Recoded/raw/main/iMSteam.user.js).
 2. Open Tampermonkey in your browser.
 3. Click on the Tampermonkey icon and select "Create a new script."
 4. Paste the contents of the userscript into the editor.
